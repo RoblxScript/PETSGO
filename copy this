@@ -1,1 +1,1 @@
- loadstring(game:HttpGet("https://raw.githubusercontent.com/RockingRedEye/PETSGO/refs/heads/main/PETSGO",true))();
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/RoblxScript/PETSGO/refs/heads/main/PETSGO",true))();
